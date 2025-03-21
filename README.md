@@ -4,11 +4,12 @@ Tento skript sečte všechny nákupy v menze a vypíše je
 
 ## 📖 Návod k použití
 
-1. Otevři stránku [`https://menza.tul.cz/historie/`](https://menza.tul.cz/historie/)
-2. Nastav rozsah "Od" na datum před první návštěvou menzy.
-3. Sjeď až na konec stránky
-4. Stiskni **Ctrl + A** a zkopíruj veškerý text do souboru `data.txt` a ulož ho
-5. Spusť skript
+1. Přihlaš se na stránce [`https://menza.tul.cz/`](https://menza.tul.cz/)
+2. Otevři stránku [`https://menza.tul.cz/historie/`](https://menza.tul.cz/historie/)
+3. Nastav rozsah "Od" na datum před první návštěvou menzy.
+4. Sjeď až na konec stránky
+5. Stiskni **Ctrl + A** a zkopíruj veškerý text do souboru `data.txt` a ulož ho
+6. Spusť skript
 
 ## 🚀 Spuštění
 
